@@ -10,8 +10,8 @@
   "gitcoin/gr15": {
     "title": "Gitcoin for Climate GR15 POCA",
     "description": "Proof of Climate Action for participating as a project in the Gitcoin for Climate GR15",
-    "image": "/images/POCA-GR15-medium-cropped.jpg",
-    "favicon": "/images/POCA-GR15-favicon.jpg",
+    "image": "/images/poca/gitcoin/gr15/POCA-GR15-medium-cropped.jpg",
+    "favicon": "/images/poca/gitcoin/gr15/POCA-GR15-favicon.jpg",
     "googleDocId": "1qBKE-9SBTB6CGTfrq3-bPdfIsFZyiTkx3n_-tAhOEKE"
   }
 }
